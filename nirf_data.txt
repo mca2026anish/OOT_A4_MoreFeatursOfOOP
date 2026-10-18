@@ -1,0 +1,2 @@
+STUDENT REPORT | Roll: 2601 | Anish Naik | MCA
+FACULTY | Dr. HHR | HOD | Exp: 15 yrs | PhD: true
